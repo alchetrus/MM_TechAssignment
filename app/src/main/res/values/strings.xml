@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoughtyFoxTechTask</string>
+    <string name="retry_text">Retry</string>
+    <string name="navigate_back_text">Navigate back</string>
+</resources>
