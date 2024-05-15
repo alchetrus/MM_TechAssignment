@@ -1,7 +1,7 @@
-# Tech Task for NoughtyFox
+# NewsReader
 
 ## Table of contents
-- [Tech Task for NoughtyFox](#tech-task-for-noughtyfox)
+- [News Reader](#newsreader)
   - [Table of contents](#table-of-contents)
   - [Tech Stack](#tech-stack)
   - [Architecture](#architecture)
@@ -48,7 +48,7 @@ In the presentation layer you'll find the UI related components and screens.
 
 ## Improvements
 
-The app can obviously be improved, but the required code for those improvements started growing and I just got tired :clown_face: Anyway, here is what could be improved:
+The app is in progress, here is what could and should be improved when i have more time:
 
 1. The UI obviously, I would play around with different colors, and components, and considering the fact that the api provides some images, in the details screen I could display the news image with **coil** for example.
 2. Adding a callAdapter for retrofit where `handleApiResponse` could be called, so that we wouldn't have to write it for every network call function.

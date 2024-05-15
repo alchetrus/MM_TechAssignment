@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NoghtyFoxTechTask"
+rootProject.name = "NewsReader"
 include(":app")
  

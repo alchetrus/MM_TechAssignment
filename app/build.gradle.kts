@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mm.noughtyfoxtechtask"
+    namespace = "com.mm.newsreader"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.mm.noughtyfoxtechtask"
+        applicationId = "com.mm.newsreader"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
